@@ -1,0 +1,6 @@
+{
+  "name": "Zizz Chat App",
+  "description": "Download landing page for the Zizz chat application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
